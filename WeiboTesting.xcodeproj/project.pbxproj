@@ -10,6 +10,7 @@
 		7D26866D255293860072473A /* PostCellToolbarButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D26866C255293860072473A /* PostCellToolbarButton.swift */; };
 		7D2686712552CA2F0072473A /* PostListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D2686702552CA2F0072473A /* PostListView.swift */; };
 		7D2686742554125C0072473A /* PostImageCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D2686732554125C0072473A /* PostImageCell.swift */; };
+		7D2D720025595E07009CCED8 /* HomeNavigationBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D2D71FF25595E07009CCED8 /* HomeNavigationBar.swift */; };
 		7D3E99DE255176F300B9C1B3 /* WeiboTestingApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D3E99DD255176F300B9C1B3 /* WeiboTestingApp.swift */; };
 		7D3E99E0255176F300B9C1B3 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D3E99DF255176F300B9C1B3 /* ContentView.swift */; };
 		7D3E99E2255176F600B9C1B3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7D3E99E1255176F600B9C1B3 /* Assets.xcassets */; };
@@ -107,6 +108,7 @@
 		7D26866C255293860072473A /* PostCellToolbarButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostCellToolbarButton.swift; sourceTree = "<group>"; };
 		7D2686702552CA2F0072473A /* PostListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostListView.swift; sourceTree = "<group>"; };
 		7D2686732554125C0072473A /* PostImageCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostImageCell.swift; sourceTree = "<group>"; };
+		7D2D71FF25595E07009CCED8 /* HomeNavigationBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeNavigationBar.swift; sourceTree = "<group>"; };
 		7D3E99DA255176F300B9C1B3 /* WeiboTesting.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WeiboTesting.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7D3E99DD255176F300B9C1B3 /* WeiboTestingApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeiboTestingApp.swift; sourceTree = "<group>"; };
 		7D3E99DF255176F300B9C1B3 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -238,6 +240,7 @@
 				7D26866C255293860072473A /* PostCellToolbarButton.swift */,
 				7DBC84DA25522FDC00193CC4 /* Post.swift */,
 				7D2686702552CA2F0072473A /* PostListView.swift */,
+				7D2D71FF25595E07009CCED8 /* HomeNavigationBar.swift */,
 				7D9DA90E2556492B00505FDF /* PostDetailView.swift */,
 				7D2686732554125C0072473A /* PostImageCell.swift */,
 				7D3E9A98255186BC00B9C1B3 /* PostVIPBadge.swift */,
@@ -505,6 +508,7 @@
 				7D3E9A99255186BC00B9C1B3 /* PostVIPBadge.swift in Sources */,
 				7D3E99DE255176F300B9C1B3 /* WeiboTestingApp.swift in Sources */,
 				7D3E99EE2551776500B9C1B3 /* PostCell.swift in Sources */,
+				7D2D720025595E07009CCED8 /* HomeNavigationBar.swift in Sources */,
 				7DBC84DB25522FDC00193CC4 /* Post.swift in Sources */,
 				7D2686712552CA2F0072473A /* PostListView.swift in Sources */,
 				7D2686742554125C0072473A /* PostImageCell.swift in Sources */,
